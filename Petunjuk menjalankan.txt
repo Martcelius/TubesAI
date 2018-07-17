@@ -1,0 +1,2 @@
+buka program matlab,kemudian load atau open file tupro.m untuk menjalankan program model klasifikasi
+atau program tupro2.m untuk program yang menentukan kelas 
